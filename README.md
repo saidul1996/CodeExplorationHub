@@ -1,1 +1,1 @@
-WebDev Playground: This is where I explore and learn new things in web development every day. Join me on this coding adventure as I discover and share insights, experiment with technologies, and document my journey. Let's learn and grow together in the world of web development!
+WebDev Playground: This is where I explore and learn new things in web development every day. Join me on this coding adventure as I discover and share insights, experiment with technologies, and document my journey. Let's learn and grow together in the world of web development! 
